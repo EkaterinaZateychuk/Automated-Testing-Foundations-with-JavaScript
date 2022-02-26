@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {
+    "fs-extra": "^10.0.1"
+  }
+}
